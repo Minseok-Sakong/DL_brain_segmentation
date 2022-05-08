@@ -34,20 +34,8 @@ Project source code is in private repository
 
 # 3. Dataset
 
-| Dataset | No. of Subjects | Scanner type | Size | Pixel Spacing (mm) | Annotations | Purpose |
-| --- | --- | --- | --- | --- | --- | --- |
-| ADNI1(CN) | 142 | T1 | 256^3 | 1mm | Cortical(68)
-+Subcortical(32) | Training |
-| ADNI1(CN) | 36 | T1 | 256^3 | 1mm | Cortical(68)
-+Subcortical(32) | Model
-validation |
-| ADNI2(CN) | 158 | T1 | 256^3 | 1mm | Cortical(68) | Validation (Statistics)  |
-| ADNI1(AD) | 151 | T1 | 256^3 | 1mm | Cortical(68) | Validation (Statistics)  |
-| ADNI1(AD) + ADNI2(MCI) | 404 | T1 | 256^3 | 1mm | Cortical(68)
-+Subcortical(32) | Validation
-(Statistics) +
-Volume
-Extraction |
+<img width="643" alt="Screen Shot 2022-05-08 at 2 28 55 PM" src="https://user-images.githubusercontent.com/74872384/167310257-d54834d0-1117-47cc-a5d8-732149b4ad71.png">
+
 
 # 4. 3D Unet Model
 
