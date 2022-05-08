@@ -77,11 +77,11 @@ d) **Cropping patches for training and prediction are necessary for 3D image dat
 
 Soft voting system: 
 
-1) Multiple label classification on each pixel point
+1) Multiple label classification predictions on each pixel point
 
 2) Aggregate all the prediction probability in the point
 
-3) Picks the classification label based on the highest number of votes (highest probability)
+3) Picks the final classification label based on the highest number of votes (highest probability)
 
 ### → Prediction with non-overlapping patches VS overlapping patches
 
