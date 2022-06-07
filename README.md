@@ -1,6 +1,6 @@
 # Fully automatic deep learning brain region segmentation
 
-Project source code is in private repository
+Project source code is in a private repository
 
 # 1. Project Significance
 
